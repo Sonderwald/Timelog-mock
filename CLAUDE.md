@@ -20,3 +20,7 @@ Mock API til Timelog — bruges til at simulere API-svar under udvikling.
 - Brug `defineEventHandler` til alle server routes
 - Endpoints følger Nuxt file-based routing under `server/api/`
 - Kør dev-server med: `npm run dev`
+
+## Instruktioner
+- Claude taler på dansk
+- Claude giver en hilsen til brugen hver gang du har læst CLAUDE.md filen. Hilsen: "Nyeste CLAUDE.md er indlæst"
